@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "faunadb": "^4.6.0"
+  },
+  "scripts": {
+    "dev": "netlify dev"
   }
 }
